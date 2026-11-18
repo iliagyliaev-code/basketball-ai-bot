@@ -1,0 +1,6 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Basketball AI Bot</string>
+    <string name="accessibility_description">Управление бросками в баскетбольной игре</string>
+</resources>
